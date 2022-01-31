@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, I'm Tyler 👋
 
-<!--
-**TylerWoolcott/tylerwoolcott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, Writer and Educator!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on connecting my [StudioVisit](https://studiovisit-io-e3by6varq-tylerwoolcott.vercel.app/) website to an Ethereum ERC1155 smart contract.
+- 🌱 I’m currently learning Web3 including Solidity, Ethers and Hardhat. 
+- 👯 I’m looking to collaborate on Web3 related projects. 
+- 💬 Feel free to ask me about anything!
+- 📫 How to reach me: tyler.woolcott@gmail.com
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: Together with an artist I published a book on the Laws of Motion in a Cartoon Landscape!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏡 [website](https://www.tylerwoolcott.com/) | 🐦 [twitter](https://twitter.com/tylerwoolcott) | 👨‍💼 [linkedin](https://www.linkedin.com/in/tyler-woolcott-6066782b/)
