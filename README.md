@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Writer and Educator!
 
-- 🔭 I’m currently working on connecting my [Forecast](https://www.get-forecast.com/) website to an AI LLM.
+- 🔭 I’m currently working on connecting my website to an AI LLM.
 - 🌱 I’m currently learning Prisma and PlanetScale.
 - 💬 Feel free to ask me about anything!
 - 📫 How to reach me: tyler.woolcott@gmail.com
