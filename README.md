@@ -17,6 +17,5 @@ I'm a Full Stack Developer at Groundsure, Writer and Educator!
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: Together with an artist I published a book on the Laws of Motion in a Cartoon Landscape!
 
-[![Website](https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=google-chrome)](https://www.tylerwoolcott.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/tylerwoolcott)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tyler-woolcott-6066782b/)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/tylerwoolcott)
