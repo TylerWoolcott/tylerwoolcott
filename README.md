@@ -1,5 +1,5 @@
 # Hello, I'm Tyler 👋
-I'm a Full Stack Developer at Groundsure, Writer and Educator!
+I'm a Full Stack Developer at Groundsure.
 
 ## 🔨 What I'm up to
 * Building a hackathon ROI tracking application to measure business metrics and impact, integrating AI LLMs for data analysis and insights
